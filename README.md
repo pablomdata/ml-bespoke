@@ -19,15 +19,19 @@ Course materials for a 3-day bespoke Machine Learning course based (partially) o
 **Morning session**
 - Tree methods and random forests (Chapter 8).
 - Support Vector Machines (Chapter 9).
+- Lab: Scikit-learn. Hyperparameter tuning.
 
 **Afternoon session**
 - Neural networks and Deep Learning (Chapter 10).
-- Lab: Introduction to pytorch.
+- Lab: Deep learning with keras.
+- (Optional Lab): Introduction to pytorch.
 
 ### Day 3:
 **Morning session**
 - Unsupervised Learning.
+- Lab: k-means. 
 - Reinforcement Learning.
+- Lab: OpenAI Gym.
 
 **Afternoon session**
 - Introduction to natural language processing. 
@@ -35,4 +39,6 @@ Course materials for a 3-day bespoke Machine Learning course based (partially) o
 - Consuming models from APIs.
 
 ## References
+- ["Introduction to Statistical Learning with Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf).
 - [Slides from the book](https://www.statlearning.com/resources-python)
+- [Repository](https://github.com/intro-stat-learning/ISLP_labs)
