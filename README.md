@@ -41,4 +41,5 @@ Course materials for a 3-day bespoke Machine Learning course based (partially) o
 ## References
 - ["Introduction to Statistical Learning with Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf).
 - [Slides from the book](https://www.statlearning.com/resources-python)
-- [Repository](https://github.com/intro-stat-learning/ISLP_labs)
+- [Repository from the book](https://github.com/intro-stat-learning/ISLP_labs)
+- [HuggingFace Example Notebooks](https://huggingface.co/docs/transformers/notebooks)
